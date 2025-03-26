@@ -1,5 +1,7 @@
-﻿# HospitalManagmentSystem
+
 # Hospital Management System (JavaFX)
+![Hospital Management System Screenshot](hospital%20screenshot.png)
+
 ## Overview
 The **Hospital Management System** is a comprehensive **JavaFX-based desktop application** built to facilitate the efficient management of vital operations within a hospital. It provides functionalities for managing patients, doctors, appointments, and medical records. The intuitive graphical user interface ensures ease of use for healthcare staff.
 This project showcases the use of JavaFX for building dynamic and interactive user interfaces, along with robust backend logic for handling hospital operations.
